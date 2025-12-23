@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "No.5",
+  "base_artist": "LANA",
+  "createdAt": "2025-12-23T13:17:28.453456Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rambo No. 5",
+      "artist": "Beginner",
+      "has_synced": false,
+      "path": "select/01_Rambo_No._5_Beginner.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rambo No. 5",
+      "artist": "Absolute Beginner",
+      "has_synced": false,
+      "path": "select/02_Rambo_No._5_Absolute_Beginner.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bachianas Brasileiras No.5 Aria (Cantilena)",
+      "artist": "Hayley Westenra",
+      "has_synced": false,
+      "path": "select/03_Bachianas_Brasileiras_No.5_Aria_(Cantilena)_Hayley_Westenra.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mambo No. 5 (a Little Bit of...)",
+      "artist": "Lou Bega",
+      "has_synced": true,
+      "path": "select/04_Mambo_No._5_(a_Little_Bit_of...)_Lou_Bega.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "No Name No. 5",
+      "artist": "Elliott Smith",
+      "has_synced": false,
+      "path": "select/05_No_Name_No._5_Elliott_Smith.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Shine on Sweet Jesus-Jesus Song No. 5 (Remastered)",
+      "artist": "The Flaming Lips",
+      "has_synced": false,
+      "path": "select/06_Shine_on_Sweet_Jesus-Jesus_Song_No._5_(Remastered)_The_Flaming_Lips.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "No. 5",
+      "artist": "Hollywood Undead",
+      "has_synced": true,
+      "path": "select/07_No._5_Hollywood_Undead.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Space Station No. 5 - Live",
+      "artist": "Sammy Hagar",
+      "has_synced": false,
+      "path": "select/08_Space_Station_No._5_-_Live_Sammy_Hagar.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Space Station No. 5 (Live)",
+      "artist": "Sammy Hagar",
+      "has_synced": false,
+      "path": "select/09_Space_Station_No._5_(Live)_Sammy_Hagar.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "No.5",
+      "artist": "LANA",
+      "has_synced": false,
+      "path": "select/pl_01_No.5_LANA.txt"
+    }
+  ]
+}
